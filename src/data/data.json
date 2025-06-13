@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "title": "./img/logos/logo-transparent-light.png",
+    "paragraph": "Foley’s is a Family run business that was established by Donal Foley in 1977. In more than 30 years since its establishment, Foley’s has been innovative and creative in both the design and execution of landscaping projects for both residential and commercial customers."
+  },
+  "Navigation": {
+    "banner": "img/logos/logo.png"
+  },
+  "About": {
+    "paragraph1": "Foley’s are also a proud member of the Association of Landscape Contractors of Ireland. A nation wide organisation dedicated to maintaining high standards of quality and workmanship within the Landscaping industry in Ireland.",
+    "paragraph2": "The design and construction of your garden is Foley’s main principle service to its customers. Within that is the provision of high quality designs with high quality workmanship and materials. Working with Foley’s in the consultancy stage of your garden is guaranteed to give creative, maintainable and impressive results.",
+    "paragraph3": "Our staff are all very highly experienced and qualified personnel and are there at all times to help and assist you in making your outdoor space achieve its potential design possibilities, from its conception to its completion.",
+    "paragraph4": "Begin your garden's transformation today. Contact Foley’s for a FREE quotation.",
+    "Why": [
+      "ALCI Accredited",
+      "Competitevly priced",
+      "Fully Insured"
+    ],
+    "Why2": [
+      "Commercial",
+      "Residential"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Our Work",
+      "largeImage": "img/photos/photo-1.jpeg",
+      "smallImage": "img/photos/photo-1.jpeg"
+    },
+    {
+      "title": "Our Work",
+      "largeImage": "img/photos/photo-2.jpeg",
+      "smallImage": "img/photos/photo-2.jpeg"
+    },
+    {
+      "title": "Our Work",
+      "largeImage": "img/photos/photo-3.jpeg",
+      "smallImage": "img/photos/photo-3.jpeg"
+    },
+    {
+      "title": "Our Work",
+      "largeImage": "img/photos/photo-4.jpeg",
+      "smallImage": "img/photos/photo-4.jpeg"
+    },
+    {
+      "title": "Our Work",
+      "largeImage": "img/photos/photo-5.jpeg",
+      "smallImage": "img/photos/photo-5.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-building-o",
+      "name": "Commercial",
+      "text": [
+        "Companies have long understood the need for a welcoming appearance to their premises. It is there that a positive message about the business is reflected in the maintenance and design of the premises.",
+        "Foley’s offer a wide range of services to the Commercial sector. From general Maintenance to Landscaping services. Foley’s will be there to consult and advice you on any aspect that are particular to the needs of your Business."
+      ],
+      "servicesLeft": [
+        "Consultation and Design.",
+        "Provision of General Maintenance.",
+        "The Provision of Landscaping Services.",
+        "The provision of professional and experienced Employee’s."
+      ],
+      "servicesRight": [
+        "Land Drainage and Irrigation Systems.",
+        "The application of professional Pruning Services.",
+        "The removal of Organic waste for Recycling.",
+        "Tree Surgery."
+      ]
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Residential",
+      "text": [
+        "Foley’s will provide the client with a design that will suit every garden.",
+        "Let Foley’s help you create in your outdoor space, what ever size that may be, into a garden that suits your needs and tastes.",
+        "With all our services, comes the initial site visit and consultation to discuss the basic needs of the client. Plans or then presented to the client, but at all times flexibility is key to any design at this early stage. Foley’s are there to help you create the ideal design and make that process an enjoyable one." 
+      ],
+      "servicesLeft": [
+        "Free Consultancy and design.",
+        "Provision of Garden Maintenance.",
+        "The Setting of Patios, Paving and Paths.",
+        "Supply of quality materials and Machinery.",
+        "Application of Drainage.",
+        "Supply of high quality Top Soil."
+      ],
+      "servicesRight": [
+        "The application of professional Pruning Services.",
+        "The removal of Organic material for recycling.",
+        "Professional Tree services.",
+        "Professional Plant and Design choices.",
+        "Provision of Garden Lighting."
+      ]
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
