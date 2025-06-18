@@ -1,10 +1,19 @@
 {
   "Header": {
     "title": "./img/logos/logo-transparent-light.png",
-    "paragraph": "Foley’s is a Family run business that was established by Donal Foley in 1977. In more than 30 years since its establishment, Foley’s has been innovative and creative in both the design and execution of landscaping projects for both residential and commercial customers."
+    "paragraph": "Foley’s is a Family run business, established in 1977. Since its establishment Foley’s has been innovative and creative in both the design and execution of landscaping projects for both residential and commercial customers."
   },
   "Navigation": {
-    "banner": "img/logos/logo.png"
+    "bannerMobile": "img/logos/logo.png",
+    "bannerDesktop": "img/logos/logo-cropped.jpg",
+    "sections": [
+      { "title": "About", "target": "#about" },
+      { "title": "Services", "target": "#services" },
+      { "title": "Gallery", "target": "#portfolio" },
+      { "title": "Testimonials", "target": "#testimonials" },
+      { "title": "Team", "target": "#team" },
+      { "title": "Contact", "target": "#contact" }
+    ]
   },
   "About": {
     "paragraph1": "Foley’s are also a proud member of the Association of Landscape Contractors of Ireland. A nation wide organisation dedicated to maintaining high standards of quality and workmanship within the Landscaping industry in Ireland.",
@@ -14,12 +23,11 @@
     "Why": [
       "ALCI Accredited",
       "Competitevly priced",
-      "Fully Insured"
-    ],
-    "Why2": [
+      "Fully Insured",
       "Commercial",
       "Residential"
-    ]
+    ],
+    "acliImg":"img/logos/alci-accredited.svg"
   },
   "Gallery": [
     {
@@ -97,8 +105,8 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"After being neglected for over a year my garden is now in great shape again. Thanks to Foley's for a job well done.\"",
+      "name": "Chris Delaney, Castleconnell"
     },
     {
       "img": "img/testimonials/02.jpg",
@@ -149,33 +157,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+    "address": "Foley's Landscaping,Mulcair Drive, Annacotty, Limerick.",
+    "phone": "061 336 443",
+    "email": "foleylandscaping@eircom.net"
+  }
 }

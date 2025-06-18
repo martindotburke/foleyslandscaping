@@ -9,16 +9,18 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <div className="intro-text-shade">
-                  {props.data ? <img src ={props.data.title}></img> : "Loading"}
+                  {props.data ? <img src ={props.data.title} alt=""></img> : "Loading"}
                    
                   <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 </div>
-                <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Learn More
-                </a>{" "}
+                <div className="header-button">
+                    <a
+                    href="#features"
+                    className="btn btn-custom btn-lg page-scroll"
+                  >
+                    Learn More
+                  </a>{" "}
+                </div>
               </div>
             </div>
           </div>
