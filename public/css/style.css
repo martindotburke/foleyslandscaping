@@ -657,7 +657,7 @@ label {
 @media (min-width: 768px) {
   .phone img {
     position: absolute;
-visibility:hidden;
-display:none;
+    visibility:hidden;
+    display:none;
   }
 }

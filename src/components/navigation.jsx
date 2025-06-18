@@ -26,8 +26,8 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-left">
             <li>{props.data ? <img src={props.data.bannerMobile} alt="..." className="navbar-logo-mobile" /> : ""}</li>
-            {props.data ? props.data.sections.map(section => {
-              return (<li key={section.name}>
+            {props.data ? props.data.sections.map((section, i) => {
+              return (<li key={i}>
                 <a href={section.target} className="page-scroll" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">{section.title}</a>
               </li>)
             }) : null}
